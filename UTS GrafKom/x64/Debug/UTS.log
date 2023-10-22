@@ -1,3 +1,0 @@
-﻿  UTS.cpp
-D:\GrafikaKomputer\UTS\UTS\UTS.cpp(117,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  UTS.vcxproj -> D:\GrafikaKomputer\UTS\UTS\x64\Debug\UTS.exe
